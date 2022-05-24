@@ -1,0 +1,132 @@
+/* configuarion General */
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+html{
+    background-color: #CFCFCF;
+}
+.box1{
+    width: 85%;
+    height: auto;
+    padding-bottom:70px;
+    margin: auto;
+    margin-top: 43px;
+    background-color: #FFFFFF;
+}
+.bar1{
+    width: auto;
+    height: 120px;
+    background-color: #FF914C;
+    padding-top: 22px;
+    padding-left: 140px;
+    display:flex;
+    flex-direction: row;
+
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+}
+.inicio{
+    padding-top: 20px;
+    height: 80px;
+    width: 200px;
+    margin-left: 90px;
+}
+.productos{
+    padding-top: 20px;
+    height: 80px;
+    width: 200px;
+    margin-left: 10px;
+}
+.info{
+    padding-top: 20px;
+    height: 80px;
+    width: 350px;
+    margin-left: 90px;
+}
+
+.logo-l{
+    color: #B3B57B;
+    font-family: 'Mitr', sans-serif;
+    font-style:normal;
+    font-size: 60px;
+}
+.opcion-l{
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 40px;
+    margin: auto;
+}
+/* ---------------------------------------------------- */
+/* configuarion "INICIO" */
+.box2{
+    width: 85%;
+    height: auto;
+    padding-bottom:70px;
+    margin: auto;
+    margin-top: 43px;
+    background-color: #F3EFEF;
+}
+.title1{
+margin-left: 380px;
+}
+.title1-l{
+    font-family: 'Mitr', sans-serif;
+    font-style:normal;
+    font-size: 90px;
+    color: #FF914C;
+}
+.text1{
+    margin-left: 210px;
+    width: 650px;
+}
+.text1-l{
+    font-family: 'Mitr', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+.contenedor1{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
+.subcontenedor1{
+    margin-top: 100px;
+    margin-left: 250px;
+    color: black;
+    font-size: 90px;
+    
+}
+.contenedor2{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction:row;
+}
+.subcontenedor2{
+    width: 200px;
+    height: 200px;
+    margin-left: 120px;
+    margin-top: 100px;
+    font-size: 90px;
+    background-color: white; 
+}
+.img-subc{
+    height: 150px;
+    width: auto;
+    background-color: white;
+ 
+}
+.textosubc{
+    height: 50px;
+    width: auto;
+    background-color: #C4C4C4;
+ 
+}
+
+/* ----------------------------------------------------- */
