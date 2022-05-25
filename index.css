@@ -7,6 +7,7 @@
 html{
     background-color: #CFCFCF;
 }
+
 .box1{
     width: 85%;
     height: auto;
@@ -71,14 +72,12 @@ html{
     margin-top: 43px;
     background-color: #F3EFEF;
 }
-.title1{
-margin-left: 380px;
-}
 .title1-l{
     font-family: 'Mitr', sans-serif;
     font-style:normal;
     font-size: 90px;
     color: #FF914C;
+    text-align: center;
 }
 .text1{
     margin-left: 210px;
@@ -95,11 +94,15 @@ margin-left: 380px;
     display: flex;
     flex-direction: row;
 }
+.text-b{
+    text-align: center;
+}
 .subcontenedor1{
     margin-top: 100px;
     margin-left: 250px;
     color: black;
     font-size: 90px;
+    
     
 }
 .contenedor2{
@@ -117,16 +120,34 @@ margin-left: 380px;
     background-color: white; 
 }
 .img-subc{
-    height: 150px;
+    height: 180px;
     width: auto;
     background-color: white;
  
 }
 .textosubc{
-    height: 50px;
+    height: 55px;
     width: auto;
     background-color: #C4C4C4;
  
 }
-
+.textosubc-l{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    color: black;
+}
 /* ----------------------------------------------------- */
+
+.img-img{
+    margin: auto;
+    padding: auto;
+    width: 100%;
+    height: 89%;
+}
+/* parte de opciones  */
+.box-op1{
+    width: 100%;
+    height: auto ;
+    background-color: red;
+}
